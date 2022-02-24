@@ -17,7 +17,6 @@ import modelclasses.DVD;
  *DvdRentalsClient.java
  * This is our DVD Rentals Client Server Program
  * @author Lindokuhle Nini (218196504)
- * @author Sihle Jijana (216273919)
  * Date: 08 November 2020
  */
 public class DvdRentalsClient {
